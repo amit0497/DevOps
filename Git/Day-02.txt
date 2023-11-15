@@ -1,1 +1,1 @@
-This is the Day 02 about git.
+This is second day of git learning
